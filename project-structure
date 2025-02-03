@@ -1,0 +1,14 @@
+cursor-designer/
+├── index.html
+├── styles/
+│   ├── main.css
+│   └── fonts.css
+├── designs/
+│   ├── poster-templates/
+│   ├── document-templates/
+│   └── app-templates/
+├── assets/
+│   ├── fonts/
+│   ├── images/
+│   └── shapes/
+└── README.md 

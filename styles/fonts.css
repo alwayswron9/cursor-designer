@@ -1,0 +1,24 @@
+/* Custom font imports */
+@font-face {
+    font-family: 'CustomFont';
+    src: url('../assets/fonts/your-custom-font.woff2') format('woff2'),
+         url('../assets/fonts/your-custom-font.woff') format('woff');
+}
+
+/* Font utility classes */
+.serif {
+    font-family: 'Playfair Display', serif;
+}
+
+.sans {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Font size utilities */
+.text-sm { font-size: 0.875rem; }
+.text-base { font-size: 1rem; }
+.text-lg { font-size: 1.125rem; }
+.text-xl { font-size: 1.25rem; }
+.text-2xl { font-size: 1.5rem; }
+.text-3xl { font-size: 1.875rem; }
+.text-4xl { font-size: 2.25rem; } 
